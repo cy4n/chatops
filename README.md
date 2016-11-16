@@ -1,4 +1,4 @@
-# chatops
+## chatops
 slides from our chatops talk
 
 [May 2016](https://github.com/cy4n/chatops/blob/master/chatops-slides-may2016.pdf)
